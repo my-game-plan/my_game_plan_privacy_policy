@@ -17,7 +17,6 @@ The app does use third-party services that may collect information used to ident
 Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [Expo](https://expo.io/privacy)
 
 **Log Data**
